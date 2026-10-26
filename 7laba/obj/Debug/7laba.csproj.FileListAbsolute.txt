@@ -1,0 +1,11 @@
+C:\Users\ROG\source\repos\7laba\7laba\bin\Debug\7laba.exe.config
+C:\Users\ROG\source\repos\7laba\7laba\bin\Debug\7laba.exe
+C:\Users\ROG\source\repos\7laba\7laba\bin\Debug\7laba.pdb
+C:\Users\ROG\source\repos\7laba\7laba\obj\Debug\7laba.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\7laba\7laba\obj\Debug\_7laba.Form1.resources
+C:\Users\ROG\source\repos\7laba\7laba\obj\Debug\_7laba.Form2.resources
+C:\Users\ROG\source\repos\7laba\7laba\obj\Debug\_7laba.Properties.Resources.resources
+C:\Users\ROG\source\repos\7laba\7laba\obj\Debug\7laba.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\7laba\7laba\obj\Debug\7laba.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\7laba\7laba\obj\Debug\7laba.exe
+C:\Users\ROG\source\repos\7laba\7laba\obj\Debug\7laba.pdb
